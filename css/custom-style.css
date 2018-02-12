@@ -18,9 +18,6 @@
 .clear {
     clear: both;
 }
-.img-responsive{
-    height: 100px;
-}
 .parallax-section-2.parallax {
     min-height: 300px;
     background-attachment: fixed;
